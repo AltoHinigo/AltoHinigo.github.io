@@ -59,7 +59,7 @@
 }
 
 @keyframes pök {
-  60% {
+  100% {
     transform:translateX(1000px);
     
   }
